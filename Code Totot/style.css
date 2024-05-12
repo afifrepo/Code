@@ -1,0 +1,35 @@
+/*
+* {
+    border: 1px solid red;
+    margin: 0;
+    padding: 0;
+}
+*/
+.undrlne {
+    text-decoration: underline;
+}
+
+.color-navydarkblue {
+    color: #153448!important;
+}
+.color-navylighterblue {
+    color: #3C5B6F!important;
+}
+
+.bg-color-navydarkblue {
+    background-color: #153448!important;
+}
+
+.bg-color-darkbrowncustom {
+    background-color: #c2ac8c!important;
+}
+
+.bg-color-kremkuning {
+    background-color: #dac09a!important;
+}
+
+.lcustom1 {
+    margin: 0;
+    padding: 0 0 10px 0;
+    border-top: solid #dee4e7 0.5px;
+}
