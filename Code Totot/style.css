@@ -9,11 +9,34 @@
     text-decoration: underline;
 }
 
+.beritasdbar {
+    color: white;
+    text-decoration: underline;
+}
+
+.beritasdbar:hover {
+    color: aliceblue;
+    transform: scale(1.05);
+    text-decoration: none;
+}
+
 .color-navydarkblue {
     color: #153448!important;
 }
 .color-navylighterblue {
     color: #3C5B6F!important;
+}
+
+.color-kremkuning {
+    color: #dac09a!important;
+}
+
+.bg-color-navylighterblue {
+    background-color: #3C5B6F!important;
+}
+
+.color-darkbrowncustom {
+    color: #6d5737!important;
 }
 
 .bg-color-navydarkblue {
